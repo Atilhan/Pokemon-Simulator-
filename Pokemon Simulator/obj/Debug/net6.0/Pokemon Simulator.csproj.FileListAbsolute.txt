@@ -1,0 +1,15 @@
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.csproj.AssemblyReference.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.AssemblyInfoInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.AssemblyInfo.cs
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\bin\Debug\net6.0\Pokemon Simulator.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\bin\Debug\net6.0\Pokemon Simulator.deps.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\bin\Debug\net6.0\Pokemon Simulator.runtimeconfig.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\bin\Debug\net6.0\Pokemon Simulator.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\bin\Debug\net6.0\Pokemon Simulator.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\refint\Pokemon Simulator.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\Pokemon Simulator.genruntimeconfig.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon Simulator\Pokemon Simulator\obj\Debug\net6.0\ref\Pokemon Simulator.dll
