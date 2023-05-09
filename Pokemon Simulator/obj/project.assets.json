@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon Simulator\\Pokemon Simulator\\Pokemon Simulator.csproj",
+      "projectUniqueName": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon-Simulator-\\Pokemon Simulator\\Pokemon Simulator.csproj",
       "projectName": "Pokemon Simulator",
-      "projectPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon Simulator\\Pokemon Simulator\\Pokemon Simulator.csproj",
+      "projectPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon-Simulator-\\Pokemon Simulator\\Pokemon Simulator.csproj",
       "packagesPath": "C:\\Users\\Gorin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon Simulator\\Pokemon Simulator\\obj\\",
+      "outputPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\Jaar 2\\Pokemon-Simulator-\\Pokemon Simulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
