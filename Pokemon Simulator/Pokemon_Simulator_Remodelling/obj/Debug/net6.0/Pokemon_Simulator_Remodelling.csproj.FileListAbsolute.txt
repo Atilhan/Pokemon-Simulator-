@@ -1,0 +1,15 @@
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\bin\Debug\net6.0\Pokemon_Simulator_Remodelling.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\bin\Debug\net6.0\Pokemon_Simulator_Remodelling.deps.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\bin\Debug\net6.0\Pokemon_Simulator_Remodelling.runtimeconfig.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\bin\Debug\net6.0\Pokemon_Simulator_Remodelling.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\bin\Debug\net6.0\Pokemon_Simulator_Remodelling.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.csproj.AssemblyReference.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.AssemblyInfoInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.AssemblyInfo.cs
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.csproj.CoreCompileInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\refint\Pokemon_Simulator_Remodelling.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\Pokemon_Simulator_Remodelling.genruntimeconfig.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\Jaar 2\Pokemon_Simulator_Remodelling\Pokemon_Simulator_Remodelling\obj\Debug\net6.0\ref\Pokemon_Simulator_Remodelling.dll

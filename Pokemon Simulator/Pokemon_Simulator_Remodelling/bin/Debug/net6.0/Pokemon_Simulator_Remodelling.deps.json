@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pokemon_Simulator_Remodelling/1.0.0": {
+        "runtime": {
+          "Pokemon_Simulator_Remodelling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokemon_Simulator_Remodelling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
